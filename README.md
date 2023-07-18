@@ -2,5 +2,6 @@
 
 [[Paper](https://arxiv.org/abs/2306.14459)]
 
-![]('Fig.2.pdf')
-
+<p align="center">
+  <img src="Fig.2.pdf" width="350" >
+</p>
