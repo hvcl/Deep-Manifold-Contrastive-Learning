@@ -11,3 +11,10 @@ Tensorflow 2
 
 # Dataset 
 The hepatocellular carcinomas (HCCs) dataset can be downloaded from [Pathology AI Platform](http://www.wisepaip.org/paip).
+
+# Deep Manifold Embedding Learning
+
+
+# Bag formation
+
+# MIL training 
