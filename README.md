@@ -1,1 +1,1 @@
-# Deep-Manifold-Contrastive-Learning (MICCAI 2023)
+# Histopathology Image Classification using Deep Manifold Contrastive Learning (MICCAI 2023)
