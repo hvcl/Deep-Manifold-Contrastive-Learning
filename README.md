@@ -19,21 +19,29 @@ The hepatocellular carcinomas (HCCs) dataset can be downloaded from [Pathology A
 
 
 # Deep Manifold Embedding Learning
-
+Manifold encoder training. 
+```python
+python manifold.py --patch_list [path] --lr 1e-2 --weight_decay 1e-4 
+```
 
 
 # Bag formation
 1. Generate bag list in bag_list.csv file.
+   
+```python
+python bag_list_generation.py --patch_list [.csv] --num_bag 50 --num_patchPerbag 100 
+```
 
-`print("Hello, World!")`
-
-python train_tcga.py --num_classes 6'
-
-
-3. Feature extration based on bag_list.csv.
-
+2. Feature extration based on bag_list.csv.
+```python
+python feature_extraction.py --bag_list_dir [path] --saved_encoder_dir [path] 
+```
    
 # MIL training 
+```python
+python mil.py --bag_dir [path] --num_class 2 --lr 1e-2 --weight_decay 1e-4 
+```
+
 
 # Citation
 Please cite us if you use our work. 
