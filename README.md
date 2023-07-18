@@ -33,7 +33,7 @@ python bag_list_generation.py --all_patch_list [.csv] --num_bag 50 --num_patchPe
 ```
 
 2. Feature extration based on [bag_list.csv](csv_example/bag_list_example.csv).
-   Example of split_file.csv can refer to [split_file.csv](csv_example/split_file_example.csv).
+   Example of split_file.csv is in [split_file.csv](csv_example/split_file_example.csv).
 ```python
 python feature_extraction.py --bag_list_dir [path] --saved_encoder_dir [path] --split_file [.csv]
 ```
