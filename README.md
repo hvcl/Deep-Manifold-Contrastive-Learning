@@ -5,3 +5,9 @@
 <p align="center">
   <img src="Fig.2_1.jpg"  >
 </p>
+
+# Framework 
+Tensorflow 2
+
+# Dataset 
+##The hepatocellular carcinomas (HCCs) dataset can be downloaded from [HCC](http://www.wisepaip.org/paip)
