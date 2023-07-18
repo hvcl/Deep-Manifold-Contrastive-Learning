@@ -10,4 +10,4 @@
 Tensorflow 2
 
 # Dataset 
-##The hepatocellular carcinomas (HCCs) dataset can be downloaded from [HCC](http://www.wisepaip.org/paip)
+The hepatocellular carcinomas (HCCs) dataset can be downloaded from [Pathology AI Platform](http://www.wisepaip.org/paip).
