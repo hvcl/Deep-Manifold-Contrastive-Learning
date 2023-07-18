@@ -3,5 +3,5 @@
 [[Paper](https://arxiv.org/abs/2306.14459)]
 
 <p align="center">
-  <img src="Fig.2.jpg" width="350" >
+  <img src="Fig.2_1.jpg"  >
 </p>
