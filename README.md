@@ -26,13 +26,13 @@ python manifold.py --tr_patch_list [path] --lr 1e-2 --weight_decay 1e-4
 
 
 # Bag formation
-1. Generate bag list in bag_list.csv (refer [bag_list.csv](csv_example/bag_list_example.csv)).
+1. Generate bag list in [bag_list.csv](csv_example/bag_list_example.csv).
    
 ```python
 python bag_list_generation.py --all_patch_list [.csv] --num_bag 50 --num_patchPerbag 100 
 ```
 
-2. Feature extration based on bag_list.csv.
+2. Feature extration based on [bag_list.csv](csv_example/bag_list_example.csv).
    Refer [split_file.csv](csv_example/split_file_example.csv).
 ```python
 python feature_extraction.py --bag_list_dir [path] --saved_encoder_dir [path] --split_file [.csv]
