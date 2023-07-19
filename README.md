@@ -29,7 +29,7 @@ python manifold.py --tr_patch_list [CSV path] --val_patch_list [CSV path] --labe
 1. Generate bag list in [bag_list.csv](csv_example/bag_list_example.csv).
    
 ```python
-python bag_list_generation.py --all_patch_list [.csv] --num_bag 50 --num_patchPerbag 100 
+python bag_list_generation.py --tr_patch_list [CSV path] --val_patch_list [CSV path] --te_patch_list [CSV path] --save_dir [folder path] --num_bag 50 --num_patchPerbag 100 
 ```
 
 2. Feature extration based on [bag_list.csv](csv_example/bag_list_example.csv).
