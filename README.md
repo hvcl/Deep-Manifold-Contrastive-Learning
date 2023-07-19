@@ -35,12 +35,12 @@ python bag_list_generation.py --tr_patch_list [CSV path] --val_patch_list [CSV p
 2. Feature extration based on [bag_list.csv](csv_example/bag_list_example.csv).
    Example of split_file.csv is in [split_file.csv](csv_example/split_file_example.csv).
 ```python
-python feature_extraction.py --bag_list_dir [path] --saved_encoder_dir [path] --split_file [.csv]
+python feature_extraction.py --bag_list_dir  [CSV path]  --split_file [CSV path] --ckpt_dir [checkpoint path] --save_dir [folder path] --src_dir [folder_path]
 ```
    
 # MIL training 
 ```python
-python mil.py --bag_dir [path] --num_class 2 --lr 1e-2 --weight_decay 1e-4 
+ 
 ```
 
 
