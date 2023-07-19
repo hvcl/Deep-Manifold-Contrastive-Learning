@@ -40,7 +40,8 @@ python feature_extraction.py --bag_list_dir  [CSV path]  --split_file [CSV path]
    
 # MIL training 
 ```python
- 
+ python mil.py --feat_dir  [folder path]  --label_file [CSV path] --num_class 2 --save_model_dir [CSV path]
+
 ```
 
 
