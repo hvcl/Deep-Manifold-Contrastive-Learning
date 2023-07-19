@@ -21,7 +21,7 @@ The hepatocellular carcinomas (HCCs) dataset can be downloaded from [Pathology A
 # Deep Manifold Embedding Learning
 Manifold encoder training. 
 ```python
-python manifold.py --tr_patch_list [path] --lr 1e-2 --weight_decay 1e-4 
+python manifold.py --tr_patch_list [CSV path] --val_patch_list [CSV path] --label_file [CSV path] --save_dir [folder path] --num_class 2 --num_NN 5 --num_cluster 10 --save_model_dir [folder path]
 ```
 
 
