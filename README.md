@@ -1,6 +1,10 @@
-# Histopathology Image Classification using Deep Manifold Contrastive Learning (MICCAI 2023)
+# Histopathology Image Classification using Deep Manifold Contrastive Learning (MICCAI 2023) [[Paper](https://arxiv.org/abs/2306.14459)]
+By [[Jing Wei Tan](https://scholar.google.com/citations?user=_PMI46gAAAAJ&hl=en))] and  [[Won-Ki Jeong](https://scholar.google.com/citations?user=bnyKqkwAAAAJ&hl=en&oi=sra)]
 
-[[Paper](https://arxiv.org/abs/2306.14459)]
+
+
+This is the official implementation code.
+
 
 <p align="center">
   <img src="Fig.2_1.jpg"  >
