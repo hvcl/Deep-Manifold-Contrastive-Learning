@@ -53,5 +53,6 @@ Train simple MIL for classification.
 ```
 
 
-# Citation
-Please cite us if you use our work. 
+## Citation
+### Please cite us if you use our work. 
+Tan, Jing Wei, and Won-Ki Jeong. "Histopathology image classification using deep manifold contrastive learning." In International Conference on Medical Image Computing and Computer-Assisted Intervention, pp. 683-692. Cham: Springer Nature Switzerland, 2023.
